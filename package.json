@@ -1,0 +1,11 @@
+{
+  "name": "WeatherProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kunstloch/WeatherProject.git",
+  "author": "Alexander Scherer <alexscherer@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
